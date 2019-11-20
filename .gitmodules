@@ -1,0 +1,3 @@
+[submodule "Git_BigRepository_Project/Assets/Git_SmallRepository"]
+	path = Git_BigRepository_Project/Assets/Git_SmallRepository
+	url = https://github.com/NanYiYoungMaster/Git_SmallRepository.git
